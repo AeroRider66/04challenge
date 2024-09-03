@@ -8,7 +8,7 @@ This challenge provides an input page for a new blog entry and an additional pag
 ## Code Repository & Associated Deployed Site
 Repository location URL: https://github.com/AeroRider66/04challenge
 
-Webpage URL: https://aerorider66.github.io/butter_project2/
+Webpage URL: https://aerorider66.github.io/04challenge/
 
 ## How to Use
 
@@ -38,4 +38,4 @@ No external dependencies are required for this web page blog.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Deployed URL
-https://aerorider66.github.io/Module-3-Challenge/
+https://aerorider66.github.io/04challenge/
