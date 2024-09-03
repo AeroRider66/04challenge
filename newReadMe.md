@@ -5,26 +5,6 @@ This project is designed to present a landing page to the user, that will provid
 ## Installation
 
 
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
